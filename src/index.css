@@ -1,0 +1,11 @@
+:root {
+  font-family: Inter, system-ui, sans-serif;
+  color: #213547;
+  background: #f7f7f7;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  margin: 0;
+}
