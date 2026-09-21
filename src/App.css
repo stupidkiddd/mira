@@ -1,10 +1,7 @@
 #root {
-  display: grid;
   min-height: 100vh;
-  place-items: center;
 }
 
-h1 {
-  margin: 0;
-  font-size: clamp(3rem, 10vw, 7rem);
+.game-shell {
+  min-height: 100vh;
 }
